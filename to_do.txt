@@ -1,0 +1,8 @@
+handling of midi files with no off bit
+proper handling of multiple notes playing at the same time
+support for selecting multiple tracks to parse into fmf
+handling of strange tempos
+handling of too short notes < 1/128
+set default octave and note duration properly,
+set note to default duration if note length exceedes < 1/128
+display track names alongside track number as well as notes in each track
